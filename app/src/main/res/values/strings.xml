@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="first_text">Выберите анимацию:</string>
+    <string name="frame_animation">Frame Animation</string>
+    <string name="tween_animation">Tween Animation</string>
+    <string name="start">Start</string>
+</resources>
